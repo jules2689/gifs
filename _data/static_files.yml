@@ -1744,6 +1744,14 @@
   - dance
   - fail
   - gif
+- title: fail-graceful-cat.gif
+  path: fail/fail-graceful-cat.gif
+  modified_time: 1438054945
+  extname: ".gif"
+  tags:
+  - cat
+  - fail
+  - gif
 - title: ferret-fail.gif
   category: fail
   path: fail/ferret-fail.gif
