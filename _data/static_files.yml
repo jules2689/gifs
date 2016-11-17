@@ -20,6 +20,7 @@
   - hardy
   - 'off'
   - tom
+<<<<<<< HEAD
 - title: jim-looking-around.gif
   category: awkward
   path: awkward/jim-looking-around.gif
@@ -30,6 +31,38 @@
   - gif
   - jim
   - looking
+=======
+- title: aww-yiss/breadcrumbs.gif
+  path: aww-yiss/breadcrumbs.gif
+  modified_time: 1437709879
+  extname: ".gif"
+  tags:
+  - gif
+  - aww-yiss
+  - aww-yes
+  - aww_yiss
+  - aww-yiss
+- title: aww-yiss/heman.gif
+  path: aww-yiss/heman.gif
+  modified_time: 1437709994
+  extname: ".gif"
+  tags:
+  - gif
+  - aww-yiss
+  - aww-yes
+  - aww_yiss
+  - aww-yiss
+- title: aww-yiss/ocean.gif
+  path: aww-yiss/ocean.gif
+  modified_time: 1437709981
+  extname: ".gif"
+  tags:
+  - gif
+  - aww-yiss
+  - aww-yes
+  - aww_yiss
+  - aww-yiss
+>>>>>>> Aww yiss gifs, closing tags
 - title: sk8r-girl.gif
   category: badass
   path: badass/sk8r-girl.gif
