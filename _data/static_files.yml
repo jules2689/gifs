@@ -4904,3 +4904,11 @@
   - gif
   - 'yes'
   - yup
+- title: zoidberg/zoidberg-crazy.gif
+  path: zoidberg/zoidberg-crazy.gif
+  modified_time: 1438028566
+  extname: ".gif"
+  tags:
+  - gif
+  - zoidberg
+  - crazy
